@@ -71,6 +71,7 @@ require (
 )
 
 
+
 replace github.com/rancher/lasso => github.com/rancher-teja/lasso v0.2.9-0.20260831033458-c4edd3080be1
 replace github.com/rancher/wrangler => github.com/rancher-teja/wrangler v0.0.0-00010101000000-000000000000
-replace github.com/rancher/apiserver => github.com/rancher-teja/apiserver v0.9.3-0.20260831035706-4c64ba7355e9
+replace github.com/rancher/apiserver => github.com/rancher-teja/apiserver v0.9.3-0.20260831040730-238e2e4acb04
